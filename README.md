@@ -6,7 +6,9 @@ Standalone Wear OS (Kotlin + Compose) app for a Galaxy Watch 6.
   (`calendar/main`)
 - Every night at 23:59, reads **tomorrow's** events and arms an
   alarm for each event
-- Re-arms itself automatically after each boot
+- Re-arms after each boot
+
+<img src="screenshots/schedule.png" width="300">
 
 ## Before building
 
