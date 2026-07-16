@@ -8,7 +8,7 @@ Standalone Wear OS (Kotlin + Compose) app for a Galaxy Watch 6.
   alarm for each event
 - Re-arms after each boot
 
-<img src="screenshots/schedule.png" width="300">
+<img src="images/schedule.png" width="300">
 
 ## Before building
 
